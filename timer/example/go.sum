@@ -1,0 +1,4 @@
+git.aimore.com/golang/timer v0.0.4 h1:9vi8gvhQPUtX+hXXbBIfG+K5Rdpgjpp0h9jyFs+4Gq8=
+git.aimore.com/golang/timer v0.0.4/go.mod h1:hG61z9ZV4JPvOKEy9HtZSjhsgIVAaFiZUtrabpJmtjU=
+github.com/rs/xid v1.3.0 h1:6NjYksEUlhurdVehpc7S7dk6DAmcKv8V9gG0FsVN2U4=
+github.com/rs/xid v1.3.0/go.mod h1:trrq9SKmegXys3aeAKXMUTdJsYXVwGY3RLcfgqegfbg=

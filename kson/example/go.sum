@@ -1,5 +1,5 @@
-git.aimore.com/golang/kson v0.0.9 h1:mzmdKt4LnZhPCxmACWLM59YA1x5135rk5X542JY3Y8g=
-git.aimore.com/golang/kson v0.0.9/go.mod h1:pHYriqi0WEvEEe1TIO7g1VWQn8L1jEQoqoke2FSTpAg=
+github.com/werbenhu/go-tools/kson v0.0.9 h1:mzmdKt4LnZhPCxmACWLM59YA1x5135rk5X542JY3Y8g=
+github.com/werbenhu/go-tools/kson v0.0.9/go.mod h1:pHYriqi0WEvEEe1TIO7g1VWQn8L1jEQoqoke2FSTpAg=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"git.aimore.com/golang/kson/fastfloat"
+	"github.com/werbenhu/go-tools/kson/fastfloat"
 )
 
 // Value represents any JSON value.

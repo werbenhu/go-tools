@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	"git.aimore.com/golang/kson"
+	"github.com/werbenhu/go-tools/kson"
 )
 
 func ExampleParser_Parse() {

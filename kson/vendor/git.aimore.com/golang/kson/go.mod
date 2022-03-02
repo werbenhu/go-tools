@@ -1,4 +1,4 @@
-module git.aimore.com/golang/kson
+module github.com/werbenhu/go-tools/kson
 
 go 1.16
 

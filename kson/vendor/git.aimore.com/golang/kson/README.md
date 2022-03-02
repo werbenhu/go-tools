@@ -5,7 +5,7 @@ package main
 
 import (
 	"fmt"
-	"git.aimore.com/golang/kson"
+	"github.com/werbenhu/go-tools/kson"
 )
 
 var data = []byte(`{

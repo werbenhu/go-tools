@@ -1,7 +1,7 @@
-# git.aimore.com/golang/kson v0.0.9
+# github.com/werbenhu/go-tools/kson v0.0.9
 ## explicit
-git.aimore.com/golang/kson
-git.aimore.com/golang/kson/fastfloat
+github.com/werbenhu/go-tools/kson
+github.com/werbenhu/go-tools/kson/fastfloat
 # github.com/json-iterator/go v1.1.12
 ## explicit
 github.com/json-iterator/go

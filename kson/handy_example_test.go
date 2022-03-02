@@ -3,7 +3,7 @@ package kson_test
 import (
 	"fmt"
 
-	"git.aimore.com/golang/kson"
+	"github.com/werbenhu/go-tools/kson"
 )
 
 func ExampleGetString() {

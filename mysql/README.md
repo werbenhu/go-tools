@@ -1,6 +1,6 @@
 # Nsq封装
 
-使用方法请参考 [example](https://github.com/werbenhu/go-tools/mysql/-/blob/master/examples/main.go)
+使用方法请参考 [example](https://github.com/werbenhu/go-tools/blob/master/mysql/examples/main.go)
 
 主要就是封装一个全局的连接对象。
 

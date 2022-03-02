@@ -1,5 +1,3 @@
-github.com/werbenhu/go-tools/kson v0.0.9 h1:mzmdKt4LnZhPCxmACWLM59YA1x5135rk5X542JY3Y8g=
-github.com/werbenhu/go-tools/kson v0.0.9/go.mod h1:pHYriqi0WEvEEe1TIO7g1VWQn8L1jEQoqoke2FSTpAg=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -15,3 +13,5 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
+github.com/werbenhu/go-tools v1.0.0 h1:CzS+9tutcRddhejWB2B0CTd6pvvhmh0ftHBqIgqUra4=
+github.com/werbenhu/go-tools v1.0.0/go.mod h1:jqB8ouz7ecOBLUf90QrJftl970hIOnCklmv/Omr2G7I=

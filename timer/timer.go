@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"git.aimore.com/golang/timer/timewheel"
+	"github.com/werbenhu/go-tools/timer/timewheel"
 )
 
 var tw *timewheel.TimeWheel

@@ -8,7 +8,7 @@ Inspired by following projects:
 ## Installation
 
 ```bash
-$ go get -u git.aimore.com/golang/timewheel
+$ go get -u github.com/werbenhu/go-tools/timewheel
 ```
 
 

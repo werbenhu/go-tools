@@ -1,5 +1,5 @@
-git.aimore.com/golang/mdb v0.0.5 h1:iNvfQSsOsI6+GFZXclPbNjnBZoK2nH7A45XgN42+WsY=
-git.aimore.com/golang/mdb v0.0.5/go.mod h1:w/iQQeLaZcY8qsFiTvcBeEPi88IX3WHLPIMaG79/la0=
+github.com/werbenhu/go-tools/mdb v0.0.5 h1:iNvfQSsOsI6+GFZXclPbNjnBZoK2nH7A45XgN42+WsY=
+github.com/werbenhu/go-tools/mdb v0.0.5/go.mod h1:w/iQQeLaZcY8qsFiTvcBeEPi88IX3WHLPIMaG79/la0=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

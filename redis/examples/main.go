@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"git.aimore.com/golang/redis"
+	"github.com/werbenhu/go-tools/redis"
 )
 
 func initRedis() {

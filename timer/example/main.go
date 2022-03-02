@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.aimore.com/golang/timer"
+	"github.com/werbenhu/go-tools/timer"
 )
 
 func main() {

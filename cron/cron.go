@@ -3,8 +3,8 @@ package cron
 import (
 	"fmt"
 
-	"git.aimore.com/golang/cron/rc"
 	"github.com/rs/xid"
+	"github.com/werbenhu/go-tools/cron/rc"
 )
 
 var c *rc.Cron

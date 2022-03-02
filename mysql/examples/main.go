@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"git.aimore.com/golang/mysql"
+	"github.com/werbenhu/go-tools/mysql"
 )
 
 func initMysql() {

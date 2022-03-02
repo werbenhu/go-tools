@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.aimore.com/golang/nsq"
+	"github.com/werbenhu/go-tools/nsq"
 )
 
 func initNsq() {

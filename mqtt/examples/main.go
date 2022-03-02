@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.aimore.com/golang/mqtt"
+	"github.com/werbenhu/go-tools/mqtt"
 )
 
 func initTlsMqtt() {

@@ -1,5 +1,5 @@
-module git.aimore.com/golang/timer/example
+module github.com/werbenhu/go-tools/timer/example
 
 go 1.16
 
-require git.aimore.com/golang/timer v0.0.4
+require github.com/werbenhu/go-tools v1.0.0

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.aimore.com/golang/cron"
+	"github.com/werbenhu/go-tools/cron"
 )
 
 func main() {

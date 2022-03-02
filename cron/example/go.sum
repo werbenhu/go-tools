@@ -1,5 +1,5 @@
-git.aimore.com/golang/cron v1.0.3 h1:E9k/1px/Swy8GbJww7Etd5kxWMqHCHSVcVj1J60nHm0=
-git.aimore.com/golang/cron v1.0.3/go.mod h1:lDHksIdSymHMalwL0pgoWymsqgq8lCMbmzLwo9oSRgc=
+github.com/werbenhu/go-tools/cron v1.0.3 h1:E9k/1px/Swy8GbJww7Etd5kxWMqHCHSVcVj1J60nHm0=
+github.com/werbenhu/go-tools/cron v1.0.3/go.mod h1:lDHksIdSymHMalwL0pgoWymsqgq8lCMbmzLwo9oSRgc=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
